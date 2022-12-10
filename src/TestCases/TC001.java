@@ -8,5 +8,7 @@ public class TC001 {
         System.out.println("More testing TC001");
         System.out.println("Negative testing for TC001");
         System.out.println("Positive testing for TC001");
+        System.out.println("args = " + args);
+        System.out.println("one more lane");
     }
 }
